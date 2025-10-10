@@ -2,7 +2,8 @@
 name = "week-2-interpretable-models"
 version = "0.1.0"
 description = "Add your description here"
-requires-python = "==3.12"
+readme = "README.md"
+requires-python = "==3.12.*"
 dependencies = [
     "ipywidgets>=8.1.7",
     "notebook>=7.4.7",
